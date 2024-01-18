@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500897420755",
+    "project_id": "cipherxexpensetracker",
+    "storage_bucket": "cipherxexpensetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500897420755:android:6e5a99939196b9c8264b26",
+        "android_client_info": {
+          "package_name": "com.example.cipherx_expense_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCES5MAkaIF8wx1oMF_3zb8B_jLMlyDgA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
