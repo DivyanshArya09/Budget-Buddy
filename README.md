@@ -1,6 +1,6 @@
-# CipherX Expense Tracker App
+# Budget Buddy Expense Tracker App
 
-CipherX Expense Tracker is a Flutter mobile application designed to help users efficiently manage their expenses. With Firebase Authentication and Provider package integration, users can securely log in to the app and track their spending. Whether it's personal finances or business expenses, CipherX offers a simple and intuitive interface to keep track of transactions.
+Budget Buddy Expense Tracker is a Flutter mobile application designed to help users efficiently manage their expenses. With Firebase Authentication and Provider package integration, users can securely log in to the app and track their spending. Whether it's personal finances or business expenses, Budget Buddy offers a simple and intuitive interface to keep track of transactions.
 
 ## Features
 
@@ -20,7 +20,7 @@ CipherX Expense Tracker is a Flutter mobile application designed to help users e
 
 ## Getting Started
 
-To get started with CipherX Expense Tracker, follow these steps:
+To get started with Budget Buddy Expense Tracker, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Flutter installed on your system. If not, refer to the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
@@ -31,5 +31,3 @@ To get started with CipherX Expense Tracker, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you encounter any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-
